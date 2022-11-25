@@ -1,0 +1,11 @@
+print('Findout the minimum element in the list')
+list=[22,55,11,88,55,76,34,32]
+min=list[0]
+for i in list:
+    if i<min:
+        min=i
+print('\nMinium number is=',min)
+out put
+Findout the minimum element in the list
+Minium number is= 11
+> 
