@@ -1,0 +1,13 @@
+list=[1,2,3,4,5]
+print("lst")
+lst=int(input())
+if lst in list:
+    print("yes given element is available in list")
+else:
+    print("no given element is not available in list")
+
+output
+lst
+6
+no given element is not available in list
+> 
